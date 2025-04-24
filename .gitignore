@@ -33,7 +33,7 @@ Thumbs.db
 *.out
 *.toc
 *.synctex.gz
-*.pdf
+#*.pdf
 
 # 编译或临时导出目录（防止误提交）
 build/
