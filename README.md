@@ -64,6 +64,7 @@
 │   └── ...
 ├── examples/               # 典型例题与解析
 ├── mindmaps/               # 思维导图
+├── attachments/            # 附件资料
 └── references/             # 参考资料
 
 ```
