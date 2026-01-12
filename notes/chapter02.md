@@ -773,7 +773,7 @@ n =16
 ![7a404334-47b9-48a0-9477-cc262978a480.png](../attachments/chapter02/400E6E03-5D83-44B8-A64A-23F5D0F6D2FC.png)  
   
 2、单链表的结点及链表定义如下：  
-  
+
 typedef struct node{  
     int data; // 数据域  
     struct node *next; //指针域  
